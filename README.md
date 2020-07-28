@@ -3,10 +3,10 @@
 El presente código fue realizado en Java 8 update 261 utilizando la libreria JUnit 5.
 
 ## Instalación
-	- Clonar el presente repositorio en su dispositivo.
-	- Agregar el proyecto clonado a su espacio de trabajo correspondiente a su IDLE donde utiliza Java.
-		- En eclipse (eclipse-workspace)
-	- Abra su idle y podrá ver el proyecto en el Package Explorer.
+-Clonar el presente repositorio en su dispositivo.
+- Agregar el proyecto clonado a su espacio de trabajo correspondiente a su IDLE donde utiliza Java.
+- En eclipse (eclipse-workspace)
+- Abra su idle y podrá ver el proyecto en el Package Explorer.
 
 ## Ejecución
 	Se puede observar dos carpetas src

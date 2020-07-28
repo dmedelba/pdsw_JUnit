@@ -19,8 +19,9 @@ Se puede observar dos carpetas src:
 ```
 CuentaBancoTest.java: Contiene los test correspondientes a los principales metodos 
 de las transacciones con el banco, "deposito" y "retiro".
-		
-*MainTest.java:*  Contiene más test a los metodos presentes del archivo main.java, aquí
+```
+```
+MainTest.java:  Contiene más test a los metodos presentes del archivo main.java, aquí
 podemos observar los test necesarios para cumplir los requisitos expuestos en esta entrega
 (monto minimo, monto máximo, valores negativos, cantidad de operaciones, cantidad de ejecuciones, 
 entre otros).
